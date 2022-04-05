@@ -34,11 +34,11 @@
 
 ### Connect with me:
 
-## Twitter : https://twitter.com/anuragd275
+### Twitter : https://twitter.com/anuragd275
 
-## Instagram : https://instagram.com/the_anurag_dubey
+### Instagram : https://instagram.com/the_anurag_dubey
 
-## Linkedin : https://linkedin.com/anuragd275
+### Linkedin : https://linkedin.com/anuragd275
 
 <br>
 
