@@ -7,6 +7,8 @@
 - Looking to Collaborate with Front-end Developers.
 - 2022 Goals : Become a Full stack Developer.
 
+<img align="center" alt="Github Profile badges" src="https://visitor-badge.laobi.icu/badge?page_id=anuragd275">
+
 ### Connect with me:
 
 <br>
