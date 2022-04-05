@@ -38,7 +38,7 @@
 
 ### Instagram : https://instagram.com/the_anurag_dubey
 
-### Linkedin : https://linkedin.com/anuragd275
+### Linkedin : https://linkedin.com/anuragd27500
 
 <br>
 
