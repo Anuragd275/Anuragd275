@@ -13,7 +13,7 @@
 
 ---
 
-<img align="left" alt="Anurag's Stats" src="https://github-readme-stats.vercel.app/api?username=anuragd275&show_icons=true&bg_color=90,#e73827, #f85032">
+<img align="left" alt="Anurag's Stats" src="https://github-readme-stats.vercel.app/api?username=anuragd275&show_icons=true&bg_color=90DEG,#e73827, #f85032">
 
 <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragd275">
 
