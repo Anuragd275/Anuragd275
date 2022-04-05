@@ -34,6 +34,12 @@
 
 ### Connect with me:
 
+## Twitter : https://twitter.com/anuragd275
+
+## Instagram : https://instagram.com/the_anurag_dubey
+
+## Linkedin : https://linkedin.com/anuragd275
+
 <br>
 
 ---
@@ -43,8 +49,3 @@
 <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragd275">
 
 <img align="left" alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuragd275">
-
-[twitter]: https://twitter.com/anuragd275
-[instagram]: https://instagram.com/the_anurag_dubey
-[linkedin]: https://linkedin.com/anuragd275
-[whatsapp]: https://wa.me/+916390527620
