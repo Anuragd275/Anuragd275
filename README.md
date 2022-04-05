@@ -13,7 +13,7 @@
 
 ---
 
-<img align="left" alt="Anurag's Stats" src="https://github-readme-stats.vercel.app/api?username=anuragd275">
+<img align="left" alt="Anurag's Stats" src="https://github-readme-stats.vercel.app/api?username=anuragd275&show_icons=true&theme=radical">
 
 [twitter]: https://twitter.com/anuragd275
 [instagram]: https://instagram.com/the_anurag_dubey
