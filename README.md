@@ -15,6 +15,10 @@
 
 <img align="left" alt="Anurag's Stats" src="https://github-readme-stats.vercel.app/api?username=anuragd275&show_icons=true&theme=radical">
 
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragd275">
+
+<img align="left" alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuragd275">
+
 [twitter]: https://twitter.com/anuragd275
 [instagram]: https://instagram.com/the_anurag_dubey
 [linkedin]: https://linkedin.com/anuragd275
