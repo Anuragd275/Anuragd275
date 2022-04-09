@@ -48,4 +48,4 @@
 
 <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragd275">
 
-<img align="left" alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuragd275">
+
