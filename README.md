@@ -4,7 +4,7 @@ Hi 👋 My name is Anurag Dubey
 Front-end Developer, Python Developer & Student
 -----------------------------------------------
 
-Front-end Developer with 2 years of experience, Python Developer with 1 year experience. In love with JavaScript.
+Front-end Developer with 2 years of experience, Python Developer with 1 year experience. In love with JavaScript. Future MERN Full Stack Developer.
 
 * 🌍  I'm based in Lucknow, India
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-ui-five.vercel.app/)
