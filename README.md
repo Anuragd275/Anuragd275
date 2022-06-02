@@ -7,7 +7,7 @@ Front-end Developer, Python Developer & Student
 Front-end Developer with 2 years of experience, Python Developer with 1 year experience. In love with JavaScript. Future MERN Full Stack Developer.
 
 * 🌍  I'm based in Lucknow, India
-* 🖥️  See my portfolio at [My Portfolio](http://portfolio-ui-five.vercel.app/)
+* 🖥️  See my portfolio [here](https://portfolio-nu-dun-15.vercel.app/)
 * ✉️  You can contact me at [anuragd275@gmail.com](mailto:anuragd275@gmail.com)
 * 🚀  I'm currently working on [Spotify Clone without any frameworks or libraries](http://wave-two.vercel.app/)
 * 🧠  I'm learning React
