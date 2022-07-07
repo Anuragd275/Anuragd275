@@ -9,7 +9,8 @@ src="https://img.shields.io/twitter/follow/anuragd275?logo=twitter&style=for-the
 /></a>  <a href="https://www.github.com/anuragd275" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anuragd275?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a>
 
-Front-end Developer with 2 years of experience, Python Developer with 1 year experience. In love with JavaScript. Future MERN Full Stack Developer.
+Front-end Developer with 2 years of experience, Python Developer with 1 year experience. In love with JavaScript. <br>
+Currently persuing Bachelor's degree from Abdul Kalam Technical University.
 
 * 🌍  I'm based in Lucknow, India
 * 🖥️  See my portfolio [here](https://portfolio-nu-dun-15.vercel.app/)
