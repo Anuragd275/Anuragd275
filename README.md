@@ -4,6 +4,11 @@ Hi 👋 My name is Anurag Dubey
 Front-end Developer, Python Developer & Student
 -----------------------------------------------
 
+![](https://komarev.com/ghpvc/?username=anuragd275&style=for-the-badge&color=blue)  <a href="https://www.twitter.com/anuragd275" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/anuragd275?logo=twitter&style=for-the-badge&color=3382ed&labelColor=27272a"
+/></a>  <a href="https://www.github.com/anuragd275" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/anuragd275?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a>
+
 Front-end Developer with 2 years of experience, Python Developer with 1 year experience. In love with JavaScript. Future MERN Full Stack Developer.
 
 * 🌍  I'm based in Lucknow, India
@@ -13,10 +18,7 @@ Front-end Developer with 2 years of experience, Python Developer with 1 year exp
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Front-end Development
 
-<a href="https://www.twitter.com/anuragd275" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/anuragd275?logo=twitter&style=for-the-badge&color=3382ed&labelColor=27272a"
-/></a><a href="https://www.github.com/anuragd275" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/anuragd275?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a>
+
 
 ### Skills
 
