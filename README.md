@@ -15,7 +15,7 @@ Currently persuing Bachelor's degree from Abdul Kalam Technical University.
 * 🌍  I'm based in Lucknow, India
 * 🖥️  See my portfolio [here](https://portfolio-nu-dun-15.vercel.app/)
 * ✉️  You can contact me at [anuragd275@gmail.com](mailto:anuragd275@gmail.com)
-* 🚀  I'm currently working on [Spotify Clone without any frameworks or libraries](http://wave-two.vercel.app/)
+* 🚀  I'm currently working on Whatsapp bot to send messages.
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Front-end Development
 
