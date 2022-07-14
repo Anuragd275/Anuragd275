@@ -1,4 +1,4 @@
-Hi 👋 My name is Anurag Dubey
+Hi, My name is Anurag Dubey
 =============================
 
 Front-end Developer, Python Developer & Student
