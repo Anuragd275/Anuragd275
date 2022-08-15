@@ -17,7 +17,7 @@ Currently persuing Bachelor's degree from Abdul Kalam Technical University.
 * ✉️  You can contact me at [anuragd275@gmail.com](mailto:anuragd275@gmail.com)
 * 🚀  I'm currently developing a Blog Template.
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Front-end Development
+* 🤝  I'm open to collaborating on Front-end Development Projects. 
 
 
 
