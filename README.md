@@ -2,7 +2,7 @@
 
 ## Frontend Developer & Student
 
-Frontend Web Developer from last 2 years, can code stuff in Python also. On my way to being a MERN stack Developer.
+Frontend Web Developer from last 2 years, can code stuff in Python also.
 
 - 🌍  I'm based in Lucknow, India
 - 🖥️  See my portfolio at [here](http://https://portfolio-nu-dun-15.vercel.app/)
