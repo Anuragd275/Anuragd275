@@ -14,6 +14,8 @@ Frontend Web Developer from last 2 years, can code stuff in Python also.
 src="https://img.shields.io/twitter/follow/anuragd275?logo=twitter&style=for-the-badge&color=f97316&labelColor=0f172a"
 /></a>  <a href="https://www.github.com/anuragd275" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anuragd275?logo=github&style=for-the-badge&color=f97316&labelColor=0f172a" /></a>  ![](https://komarev.com/ghpvc/?username=anuragd275&style=for-the-badge&color=orange) <a href="https://www.twitter.com/anuragd275" target="_blank" rel="noreferrer">
+  
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=anuragd275)](https://holopin.io/@anuragd275)
 
 ### Skills
 
