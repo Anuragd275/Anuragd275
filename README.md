@@ -5,7 +5,7 @@
 Frontend Web Developer from last 2 years, can code stuff in Python also.
 
 - 🌍  I'm based in Lucknow, India
-- 🖥️  See my portfolio at [here](http://https://portfolio-nu-dun-15.vercel.app/)
+- 🖥️  See my portfolio [here](https://portfolio-nu-dun-15.vercel.app/)
 - ✉️  You can contact me at [tonythestark7@gmail.com](mailto:tonythestark7@gmail.com)
 - 🚀  I'm currently working on [GitHub Profile Accessor](https://github.com/Anuragd275/GitHub-accessor)
 - 🧠  I'm learning Python (Advanced Stuff)
