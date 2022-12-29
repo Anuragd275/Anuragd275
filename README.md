@@ -5,7 +5,7 @@
 #### ⚡Frontend Web Developer from last 2 years, can code stuff in Python also, interested mostly in Automation. In love with Python :)
 
 - 🌍 From Lucknow, India
-- 🖥️ Visit my [Portfolio](anuragd275.github.io)
+- 🖥️ Visit my [Portfolio](https://anuragd275.github.io)
 - 🧠 Open to collaborate on Python Automation Projects, available for Freelancing ;)
 
 <a href="https://www.twitter.com/anuragd275" target="_blank" rel="noreferrer"><img
