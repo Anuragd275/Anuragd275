@@ -2,11 +2,11 @@
 
 ## Frontend Developer, Python Developer & Student
 
-#### ⚡Frontend Web Developer from last 2 years, can code stuff in Python also, interested mostly in Automation. In love with Python ❤️:)
+#### Frontend Web Developer from last 2 years, can code stuff in Python also, interested mostly in Automation. In love with Python :)
 
 - 🌍 From Lucknow, India
 - 🖥️ Visit my [Portfolio](https://anuragd275.github.io)
-- 🧠 Open to collaborate on Python Automation Projects, available for Freelancing ;)
+- ⚡ Open to collaborate on Python Automation Projects, available for Freelancing ;)
 
 <a href="https://www.twitter.com/anuragd275" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anuragd275?logo=twitter&style=for-the-badge&color=00acee&labelColor=000"
