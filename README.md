@@ -8,9 +8,7 @@
 - 🖥️ Visit my [Portfolio](https://anuragd275.github.io)
 - ⚡ Open to collaborate on Python Automation Projects, available for Freelancing ;)
 
-<a href="https://www.twitter.com/anuragd275" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/anuragd275?logo=twitter&style=for-the-badge&color=00acee&labelColor=000"
-/></a>  <a href="https://www.github.com/anuragd275" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/anuragd275" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anuragd275?logo=github&style=for-the-badge&color=00acee&labelColor=000" /></a>  ![](https://komarev.com/ghpvc/?username=anuragd275&style=for-the-badge&color=00acee&labelColor=000) <a href="https://www.twitter.com/anuragd275" target="_blank" rel="noreferrer"></a>
 
 #### My Skills
