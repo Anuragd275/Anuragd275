@@ -8,7 +8,7 @@ Connect with me!
 
 <p align="left">
 
-   <a href="https://www.twitter.com/anuragd275" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" /></a>  <a href="https://www.linkedin.com/in/anuragd275" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>  <a href="http://www.instagram.com/anurag__xdd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a>
+   <a href="https://www.twitter.com/anuragd275" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" /></a>  <a href="https://www.linkedin.com/in/anuragd27500" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>  <a href="http://www.instagram.com/anurag__xdd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a>
 </p>
 
 #### My GitHub stats
