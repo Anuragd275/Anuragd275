@@ -2,7 +2,7 @@
 
 ## Student, Python Developer & Frontend Web Developer
 
-#### I'm a 19 year-old college student, balancing my BTech with an unyielding passion for space and computer science. Making the most of today, taking small steps at a time.
+#### 19-year-old college student, balancing my BTech with an unyielding passion for space and computer science. Making the most of today, taking small steps at a time.
 ---
 
 ### Connect with me on Social Media!
