@@ -1,12 +1,19 @@
-Hello There,
+Hello there,
 
 I'm **Anurag Dubey** - **Python Developer** and a **Frontend Developer** for web based in Luckow, India. I'm currently pursuing my Bachelors in Computer Science 🎓 from **BBDNIIT**, Lucknow.
+
+---
+
+![](https://komarev.com/ghpvc/?username=anuragd275&color=5256f4&style=for-the-badge&label=Profile+Views)
+
+---
 
 ### Socials
 <p align="left">
    <a href="https://www.twitter.com/anuragd275" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" /></a> . <a href="https://www.linkedin.com/in/anuragd27500" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a> . <a href="http://www.instagram.com/anurag__xdd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a>
 </p>
 
+---
 ### My GitHub stats
 
 <p align="left">
