@@ -5,3 +5,5 @@ I'm **Anurag** - a **Python Developer**, **Frontend Web Developer**, and a CS Un
 ---
 
 Socials: [X](https://www.x.xom/anuragd275) [LinkedIn](https://www.linkedin.com/in/anuragd27500) [Facebook](https://www.facebook.com/Anurag.275)
+
+---
