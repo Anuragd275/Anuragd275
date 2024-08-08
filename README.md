@@ -9,3 +9,5 @@ Socials: [X](https://www.x.com/anuragd275) [LinkedIn](https://www.linkedin.com/i
 ---
 
 `Here I pretend to know what I'm doing in Public :)`
+
+---
