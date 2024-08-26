@@ -1,6 +1,6 @@
 Hello there,
 
-I'm **Anurag** - a **Python Developer**, **Frontend Web Developer**, and a CS Undergraduate student trying to make the most of every day.
+I'm **Anurag** - a **Python Developer**, **Back-end Developer**, and a CS Undergraduate student trying to make the most of every day.
 
 ---
 
