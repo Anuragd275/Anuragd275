@@ -23,6 +23,7 @@ A full-time **Python Developer**, part-time **MERN Stack Developer {Core Backend
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![Railway](https://img.shields.io/badge/-Railway-000?style=for-the-badge&logo=railway)
+
 ---
 
 ### Currently cooking:
