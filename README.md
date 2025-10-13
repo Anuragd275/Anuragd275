@@ -17,13 +17,12 @@ A full-time **Python Developer**, part-time **MERN Stack Developer {Core Backend
 
 ### Tech Stack (aka My Arsenal):
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
-![Railway](https://img.shields.io/badge/-Railway-000?style=flat&logo=railway)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Railway](https://img.shields.io/badge/-Railway-000?style=for-the-badge&logo=railway)
 ---
 
 ### Currently cooking:
