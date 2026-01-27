@@ -1,6 +1,6 @@
 ## Hey there, I'm Anurag! 
 
-A full-time **Python Developer**, part-time **MERN Stack Developer {Core Backend}**, and a forever **CS Undergrad** just out here trying to make sense of this wild tech jungle.
+A full-time **Python Developer**, part-time **MERN Stack Developer {Core Backend}** just out here trying to make sense of this wild tech jungle.
 
 
 > Here I pretend to know what I'm doing in Public :)
@@ -20,9 +20,13 @@ A full-time **Python Developer**, part-time **MERN Stack Developer {Core Backend
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![ExpressJS](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
+![React-Native](https://img.shields.io/badge/-React%20native-000?style=for-the-badge&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![Railway](https://img.shields.io/badge/-Railway-000?style=for-the-badge&logo=railway)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragd275&layout=compact&theme=tokyonight)
 
 ---
 
