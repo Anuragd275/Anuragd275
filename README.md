@@ -26,8 +26,6 @@ A full-time **Python Developer**, part-time **MERN Stack Developer {Core Backend
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![Railway](https://img.shields.io/badge/-Railway-000?style=for-the-badge&logo=railway)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragd275&layout=compact&theme=tokyonight)
-
 ---
 
 ### Currently cooking:
